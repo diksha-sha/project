@@ -1,0 +1,80 @@
+Symptoms:  skin_rash,  blackheads,  scurring
+Disease: Acne
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms:  skin_rash,  pus_filled_pimples,  blackheads,  scurring
+Disease: Acne
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms:  fatigue,  mood_swings,  weight_loss,  restlessness,  sweating,  diarrhoea,  fast_heart_rate,  excessive_hunger,  muscle_weakness,  irritability,  abnormal_menstruation
+Disease: Lupus
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms:  muscle_wasting,  patches_in_throat,  high_fever,  extra_marital_contacts
+Disease: Muscle Wasting
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms: itching,  vomiting,  yellowish_skin,  nausea,  loss_of_appetite,  abdominal_pain,  yellowing_of_eyes
+Disease: Cholera
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms:  headache,  chest_pain,  dizziness,  loss_of_balance,  lack_of_concentration
+Disease: Migraine Headaches
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms:  vomiting,  fatigue,  anxiety,  sweating,  headache,  nausea,  blurred_and_distorted_vision,  excessive_hunger,  drying_and_tingling_lips,  slurred_speech,  irritability,  palpitations
+Disease: Epilepsy
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms:  muscle_weakness,  stiff_neck,  swelling_joints,  painful_walking
+Disease: Muscular Dystrophy
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms: itching,  fatigue,  lethargy,  yellowish_skin,  dark_urine,  loss_of_appetite,  abdominal_pain,  yellow_urine,  yellowing_of_eyes,  malaise,  receiving_blood_transfusion,  receiving_unsterile_injections
+Disease: Lymphatic filariasis (LF)
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms:  acidity,  indigestion,  headache,  blurred_and_distorted_vision,  excessive_hunger,  stiff_neck,  depression,  irritability,  visual_disturbances
+Disease: Acid Reflux Disease
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms:  burning_micturition,  bladder_discomfort,  foul_smell_of urine,  continuous_feel_of_urine
+Disease: Bladder cancer
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms:  fatigue,  weight_loss,  restlessness,  lethargy,  irregular_sugar_level,  blurred_and_distorted_vision,  obesity,  excessive_hunger,  increased_appetite,  polyuria
+Disease: Diabetes mellitus
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms:  joint_pain,  vomiting,  fatigue,  yellowish_skin,  dark_urine,  nausea,  loss_of_appetite,  abdominal_pain,  yellowing_of_eyes
+Disease: Lymphatic Filariasis
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms:  skin_rash,  joint_pain,  skin_peeling,  small_dents_in_nails,  inflammatory_nails
+Disease: Psoriasis
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms:  vomiting,  yellowish_skin,  abdominal_pain,  swelling_of_stomach,  distention_of_abdomen,  history_of_alcohol_consumption
+Disease: Alcoholic hepatitis
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms:  vomiting,  yellowish_skin,  abdominal_pain,  swelling_of_stomach,  distention_of_abdomen,  history_of_alcohol_consumption,  fluid_overload
+Disease: Acute hepatitis C infection
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms:  constipation,  pain_during_bowel_movements,  pain_in_anal_region,  bloody_stool,  irritation_in_anus
+Disease: Irritable Bowel Syndrome (IBS)
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms:  joint_pain,  vomiting,  fatigue,  high_fever,  yellowish_skin,  dark_urine,  nausea,  loss_of_appetite,  abdominal_pain,  yellowing_of_eyes,  acute_liver_failure,  coma,  stomach_bleeding
+Disease: Acute Liver Failure
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms:  fatigue,  weight_loss,  restlessness,  lethargy,  irregular_sugar_level,  blurred_and_distorted_vision,  excessive_hunger,  increased_appetite,  polyuria
+Disease: Fatigue Syndrome
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
+Symptoms:  back_pain,  weakness_in_limbs,  neck_pain,  dizziness,  loss_of_balance
+Disease: Spinal Stenosis
+Note: This is not medical advice. Consult a doctor.
+--------------------------------------------------
