@@ -4,7 +4,7 @@ Symptoms
 
 🔗 Colab Notebook: https://colab.research.google.com/drive/1kkDK53j0dtEGafCIU_Ak6AbY1pRdqaJu
 
-Objective
+Objective:
 
 Fine-tune a large language model to predict possible diseases based on symptom inputs. The model provides a short explanation and a medical disclaimer.
 
